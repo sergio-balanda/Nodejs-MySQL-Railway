@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "49494ea8-de19-414d-93f0-d98063c61204",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3000/login",
+    "url": "http://localhost:3000/login",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-09-24T12:04:09.083Z",
+    "modified": "2022-09-24T12:27:39.186Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"email\": \"john@email.com\",\n  \"password\": \"A1234567\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
